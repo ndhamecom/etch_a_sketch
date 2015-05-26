@@ -1,0 +1,78 @@
+#heading {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+    color: grey;
+}
+
+#directions {
+    width: 50%;
+    text-align: center;
+    color:grey;
+    margin: 0 auto;
+}
+
+#wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#buttonWrap {
+    vertical-align: center;
+    width: 208px;
+    margin:0 auto;
+}
+
+.button {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-family: arial;
+    background: grey;
+    font-style: normal;
+    color: floralwhite;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    width: 100px;
+    text-align: center;
+    
+}
+
+.button:hover {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-family: arial;
+    background: #B3B3BC;
+    font-style: normal;
+    color: floralwhite;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#butDiv {
+    height: 40px;
+    display: inline-block;
+}
+
+#grid-border {
+    margin: 0 auto;
+    align: center;
+    border: 1px solid grey;
+}
+
+
+.square {
+    background-color: white;
+    border: 1px solid grey;
+    width: 15px;
+    height: 15px;
+    float: left;
+}
