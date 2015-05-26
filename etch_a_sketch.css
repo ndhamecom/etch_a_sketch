@@ -72,7 +72,7 @@
 .square {
     background-color: white;
     border: 1px solid grey;
-    width: 15px;
-    height: 15px;
     float: left;
+    width: 16px;
+    height: 16px;
 }
